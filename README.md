@@ -1,10 +1,20 @@
 # 💫 About Me:
 🔭 I’m currently working on improving my technical and soft skills.<br>🌱 I’m currently learning 🐳Docker and ☸Kubernetes <br>⚡ Fun fact: I have an evil twin 😈 brother. [Wilson Wong](https://github.com/wilsonwong13)
 
-## 📹 Applications Gifs:
+## 📹 Projects:
 
-![Twilio Segment Salesforce Demo](./assets/Twilio-Segment-Salesforce-Demo.gif)
+### Twilio Lookup Salesforce Demo
+[Link](https://github.com/anthonywong555/Twilio-Lookup-Salesforce-Demo)
+![Twilio Lookup Salesforce Demo](./assets/Twilio-Lookup-Salesforce-Demo.gif)
+### Twilio Verify Salesforce Demo
+[Link](https://github.com/anthonywong555/Twilio-Verify-Salesforce-Demo)
+![Twilio Verify Salesforce Demo](./assets/Twilio-Verify-Salesforce-Demo.gif)
+### Twilio SendGrid Salesforce Demo
+[Link](https://github.com/anthonywong555/Twilio-SendGrid-Salesforce-Demo)
 ![Twilio SendGrid Salesforce Demo](./assets/Twilio-SendGrid-Salesforce-Demo.gif)
+### Twilio Segment Salesforce Demo
+[Link](https://github.com/anthonywong555/Twilio-Segment-Salesforce-Demo)
+![Twilio Segment Salesforce Demo](./assets/Twilio-Segment-Salesforce-Demo.gif)
 
 
 ## 🌐 Socials:
