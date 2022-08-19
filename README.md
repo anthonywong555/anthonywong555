@@ -3,6 +3,11 @@
 
 ## 📹 Projects:
 
+### Dall E SMS
+![Dall E SMS Demo](./assets/Dall-E-SMS-Demo.gif)
+### Twilio Lookup Google Cloud Vision
+[Link](https://github.com/anthonywong555/Twilio-Lookup-Google-Cloud-Vision-Demo)
+![Twilio Lookup OCR Demo](./assets/Twilio-Lookup-OCR-Demo.gif)
 ### Twilio Lookup Salesforce Demo
 [Link](https://github.com/anthonywong555/Twilio-Lookup-Salesforce-Demo)
 ![Twilio Lookup Salesforce Demo](./assets/Twilio-Lookup-Salesforce-Demo.gif)
